@@ -1,0 +1,224 @@
+newmtl Pewter0
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter0.jpg
+map_Bump Pewter_b0.jpg
+newmtl Pewter1
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter1_1.jpg
+map_Bump Pewter_b1_1.jpg
+newmtl Pewter2
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter2_2.jpg
+map_Bump Pewter_b2_2.jpg
+newmtl Pewter3
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter3_3.jpg
+map_Bump Pewter_b3_3.jpg
+newmtl Pewter4
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter4_4.jpg
+map_Bump Pewter_b4_4.jpg
+newmtl Pewter5
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter5_5.jpg
+map_Bump Pewter_b5_5.jpg
+newmtl Pewter6
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter6_6.jpg
+map_Bump Pewter_b6_6.jpg
+newmtl Pewter7
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter7_7.jpg
+map_Bump Pewter_b7_7.jpg
+newmtl Pewter8
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter8_8.jpg
+map_Bump Pewter_b8_8.jpg
+newmtl Pewter9
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter9_9.jpg
+map_Bump Pewter_b9_9.jpg
+newmtl Pewter10
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter10_10.jpg
+map_Bump Pewter_b10_10.jpg
+newmtl Pewter11
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter11_11.jpg
+map_Bump Pewter_b11_11.jpg
+newmtl Pewter12
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter12_12.jpg
+map_Bump Pewter_b12_12.jpg
+newmtl Pewter13
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter13_13.jpg
+map_Bump Pewter_b13_13.jpg
+newmtl Pewter14
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter14_14.jpg
+map_Bump Pewter_b14_14.jpg
+newmtl Pewter15
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter15_15.jpg
+map_Bump Pewter_b15_15.jpg
+newmtl Pewter16
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter16_16.jpg
+map_Bump Pewter_b16_16.jpg
+newmtl Pewter17
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter17_17.jpg
+map_Bump Pewter_b17_17.jpg
+newmtl Pewter18
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter18_18.jpg
+map_Bump Pewter_b18_18.jpg
+newmtl Pewter19
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter19_19.jpg
+map_Bump Pewter_b19_19.jpg
+newmtl Pewter20
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter20_20.jpg
+map_Bump Pewter_b20_20.jpg
+newmtl Pewter21
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter21_21.jpg
+map_Bump Pewter_b21_21.jpg
+newmtl Pewter22
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter22_22.jpg
+map_Bump Pewter_b22_22.jpg
+newmtl Pewter23
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter23_23.jpg
+map_Bump Pewter_b23_23.jpg
+newmtl Pewter24
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter24_24.jpg
+map_Bump Pewter_b24_24.jpg
+newmtl Pewter25
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter25_25.jpg
+map_Bump Pewter_b25_25.jpg
+newmtl Pewter26
+Ka 0 0 0
+Ns 20.0855
+Ks 0.835294 0.921569 1
+Kd 0.603922 0.603922 0.603922
+map_Kd Pewter26_26.jpg
+map_Bump Pewter_b26_26.jpg
+newmtl blackrock
+Ka 0 0 0
+Ns 2.40555
+Ks 1 1 1
+Kd 0.170964 0.170964 0.170964
+map_Kd blackrock_27.jpg
+map_Bump blackrock_b_27.jpg
+newmtl Metallic_Varnish
+Ka 0 0 0
+Ns 4.48169
+Ks 0.733333 0.92549 1
+Kd 0.211765 0.8 0.996078
+map_Kd Metallic_Varnis0_28.jpg
+map_Bump Metallic_Varnis1_28.jpg
+newmtl Cigar_Tip
+Ka 0 0 0
+Ns 27.1126
+Ks 1 1 1
+Kd 1 0 0
+map_Kd Cigar_Tip_29.jpg
+map_Bump Cigar_Tip_b_29.jpg
+newmtl Material__5
+Ka 0 0 0
+Ns 1.06184
+Ks 0 1 0.192157
+Kd 0 1 0.192157
+map_Kd Material__5_30.jpg
+map_Bump Material__5_b_30.jpg
+newmtl BlackInodizedAlu
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl0_31.jpg
+map_Bump BlackInodizedAl1_31.jpg
